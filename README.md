@@ -1,4 +1,4 @@
-# Practica-IAA
+# Detecció d'esquizofrènia resistent al tractament
 
 Aquest projecte aborda un dels principals reptes en psiquiatria clínica: la **predicció precoç de l’esquizofrènia resistent al tractament (TRS)**, una condició que afecta aproximadament entre el 20–30% dels pacients amb esquizofrènia i que comporta una resposta inadequada als antipsicòtics convencionals.
 L’objectiu és desenvolupar i comparar diferents **models de classificació supervisada** per predir si un pacient desenvoluparà o no TRS, utilitzant dades demogràfiques, clíniques i genètiques.
